@@ -1,6 +1,3 @@
-# SelectedWork
-A selection of scripts used in published projects
-
 # Revenant Runner
 Play store link: https://play.google.com/store/apps/details?id=com.FirstPixel.RevenantRunner&hl=en_US
 
