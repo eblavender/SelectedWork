@@ -13,5 +13,5 @@ This script is a custom editor script, that makes it easier to see only the rele
 SwipeInput.cs
 This script is designed to look for swipes in all directions, and both single tap and doulbe tap events. Keyboard overrides are also available for debugging.
 
-SkinDetails.cs
-This is a ScriptableObject, acting as a color profile, designed to make it easier when expanding and creating new player skins.
+EnvironmentDetails.cs
+This is a ScriptableObject, acting as a color profile, designed to easily create ad customise the visual effects in the environment.
